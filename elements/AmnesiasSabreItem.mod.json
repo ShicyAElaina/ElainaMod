@@ -1,0 +1,27 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sw",
+    "customModelName": "Normal",
+    "name": "Amnesias Sabre Item",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ElainaMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 1.8,
+    "enchantability": 30,
+    "damageVsEntity": 17.0,
+    "usageCount": 10086,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

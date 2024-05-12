@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "elainamod:blocks/bian",
+    "top": "elainamod:blocks/biangrass",
+    "side": "elainamod:blocks/bian",
+    "overlay": "elainamod:blocks/bian",
+    "particle": "elainamod:blocks/bian"
+  }
+}

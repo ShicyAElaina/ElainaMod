@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elainamod:blocks/bian",
+    "up": "elainamod:blocks/bian",
+    "north": "elainamod:blocks/bian",
+    "east": "elainamod:blocks/bian",
+    "south": "elainamod:blocks/bian",
+    "west": "elainamod:blocks/bian",
+    "particle": "elainamod:blocks/bian"
+  }
+}

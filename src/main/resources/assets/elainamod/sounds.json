@@ -1,0 +1,11 @@
+{
+  "hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "elainamod:hurted",
+        "stream": false
+      }
+    ]
+  }
+}

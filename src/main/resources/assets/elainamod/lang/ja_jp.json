@@ -1,0 +1,21 @@
+{
+  "item.elainamod.majobrooch": "魔女ブローチ",
+  "item.elainamod.muscle_man_spawn_egg": "マッチョになります",
+  "gui.elainamod.elainatrap.Open": "確実に開けますか?",
+  "block.elainamod.faramita_stone": "彼岸の石です",
+  "block.elainamod.faramita_grassblocks": "彼岸の草の四角です",
+  "block.elainamod.flowerontheotherside": "対岸の花です",
+  "biome.elainamod.faramita": "彼岸",
+  "entity.elainamod.muscle_man": "筋肉質の男です",
+  "subtitles.hurt": "打撃を受ける",
+  "item.elainamod.amnesias_sabre_item": "アムネシアのサーベルです",
+  "item.elainamod.elaina_spawn_egg": "レイナの生成卵です",
+  "item.elainamod.dough": "パン生地です",
+  "itemGroup.tabelaina_mod": "イレイナ-Mod",
+  "item.elainamod.cookeddough": "熟した生地",
+  "item.elainamod.croissantbread": "クロワッサンです",
+  "entity.elainamod.elaina": "イレイナ",
+  "block.elainamod.faramita_leave": "彼岸の木の葉です",
+  "gui.elainamod.elainatrap.button_start": "始めます",
+  "item.elainamod.butter": "バターです"
+}

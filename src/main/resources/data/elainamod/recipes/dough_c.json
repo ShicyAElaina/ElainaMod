@@ -1,0 +1,16 @@
+{
+  "group": "elaina",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "result": {
+    "item": "elainamod:dough",
+    "count": 1
+  }
+}

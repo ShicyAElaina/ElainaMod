@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "elainamod:blocks/higan_bana",
+    "particle": "elainamod:blocks/higan_bana"
+  }
+}

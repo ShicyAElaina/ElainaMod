@@ -1,0 +1,68 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"attack": {
+			"animation_length": 0.5,
+			"bones": {
+				"hand1": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [-30, 0, 0]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, -3, -2]
+						}
+					}
+				}
+			}
+		},
+		"move": {
+			"animation_length": 0.6667,
+			"bones": {
+				"foot": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 720, 0]
+						},
+						"0.375": {
+							"vector": [0, 720, 0]
+						},
+						"0.6667": {
+							"vector": [10, 717.5, 0]
+						}
+					}
+				},
+				"foot1": {
+					"rotation": {
+						"0.0": {
+							"vector": [-2.5, 0, 0]
+						},
+						"0.375": {
+							"vector": [-27.5, 0, 0]
+						},
+						"0.6667": {
+							"vector": [-27.5, 0, 0]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.375": {
+							"vector": [0, 0, -8]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
