@@ -6,7 +6,7 @@ import top.theillusivec4.curios.api.type.capability.ICurioItem;
 import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.Item;
 
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModTabs;
+import io.github.shicyaelaina.elainamod.init.ElainamodModTabs;
 
 public class MajobroochItem extends Item implements ICurioItem {
 	public MajobroochItem() {

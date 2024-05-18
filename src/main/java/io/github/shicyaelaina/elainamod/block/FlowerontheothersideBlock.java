@@ -21,7 +21,7 @@ import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import java.util.List;
 import java.util.Collections;
 
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModBlocks;
+import io.github.shicyaelaina.elainamod.init.ElainamodModBlocks;
 
 public class FlowerontheothersideBlock extends FlowerBlock {
 	public FlowerontheothersideBlock() {

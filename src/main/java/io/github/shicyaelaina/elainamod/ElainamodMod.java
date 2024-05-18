@@ -19,12 +19,12 @@ import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
 
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModTabs;
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModItems;
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModFeatures;
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModEntities;
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModBlocks;
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModBiomes;
+import io.github.shicyaelaina.elainamod.init.ElainamodModTabs;
+import io.github.shicyaelaina.elainamod.init.ElainamodModItems;
+import io.github.shicyaelaina.elainamod.init.ElainamodModFeatures;
+import io.github.shicyaelaina.elainamod.init.ElainamodModEntities;
+import io.github.shicyaelaina.elainamod.init.ElainamodModBlocks;
+import io.github.shicyaelaina.elainamod.init.ElainamodModBiomes;
 
 @Mod("elainamod")
 public class ElainamodMod {

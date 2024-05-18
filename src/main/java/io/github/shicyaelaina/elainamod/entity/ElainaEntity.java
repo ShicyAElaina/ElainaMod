@@ -44,8 +44,8 @@ import net.minecraft.network.syncher.EntityDataSerializers;
 import net.minecraft.network.syncher.EntityDataAccessor;
 import net.minecraft.network.protocol.Packet;
 
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModItems;
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModEntities;
+import io.github.shicyaelaina.elainamod.init.ElainamodModItems;
+import io.github.shicyaelaina.elainamod.init.ElainamodModEntities;
 
 public class ElainaEntity extends PathfinderMob implements IAnimatable {
 	public static final EntityDataAccessor<Boolean> SHOOT = SynchedEntityData.defineId(ElainaEntity.class, EntityDataSerializers.BOOLEAN);
@@ -113,11 +113,6 @@ public class ElainaEntity extends PathfinderMob implements IAnimatable {
 	@Override
 	public boolean removeWhenFarAway(double distanceToClosestPlayer) {
 		return false;
-	}
-
-	protected void dropCustomDeathLoot(DamageSource source, int looting, boolean recentlyHitIn) {
-		super.dropCustomDeathLoot(source, looting, recentlyHitIn);
-		this.spawnAtLocation(new ItemStack(ElainamodModItems.CROISSANTBREAD.get()));
 	}
 
 	@Override
@@ -244,7 +239,7 @@ public class ElainaEntity extends PathfinderMob implements IAnimatable {
 		}
 		if (this.swinging && event.getController().getAnimationState().equals(software.bernie.geckolib3.core.AnimationState.Stopped)) {
 			event.getController().markNeedsReload();
-			event.getController().setAnimation(new AnimationBuilder().addAnimation("attacked", EDefaultLoopTypes.PLAY_ONCE));
+			event.getController().setAnimation(new AnimationBuilder().addAnimation("use_mainhand", EDefaultLoopTypes.PLAY_ONCE));
 			return PlayState.CONTINUE;
 		}
 		return PlayState.CONTINUE;

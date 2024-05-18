@@ -5,7 +5,7 @@ import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.food.FoodProperties;
 
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModTabs;
+import io.github.shicyaelaina.elainamod.init.ElainamodModTabs;
 
 public class DoughItem extends Item {
 	public DoughItem() {

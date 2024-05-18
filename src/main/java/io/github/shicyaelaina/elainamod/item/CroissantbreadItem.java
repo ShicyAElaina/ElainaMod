@@ -8,8 +8,8 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.entity.LivingEntity;
 
-import io.github.shicyaelaina.elainamod.pro.EFFectProcedure;
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModTabs;
+import io.github.shicyaelaina.elainamod.IF.EFFectProcedure;
+import io.github.shicyaelaina.elainamod.init.ElainamodModTabs;
 
 public class CroissantbreadItem extends Item {
 	public CroissantbreadItem() {

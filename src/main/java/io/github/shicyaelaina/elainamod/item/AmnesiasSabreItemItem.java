@@ -6,7 +6,7 @@ import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.Item;
 
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModTabs;
+import io.github.shicyaelaina.elainamod.init.ElainamodModTabs;
 
 public class AmnesiasSabreItemItem extends SwordItem {
 	public AmnesiasSabreItemItem() {

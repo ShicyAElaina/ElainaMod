@@ -4,7 +4,7 @@ package io.github.shicyaelaina.elainamod.item;
 import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.Item;
 
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModTabs;
+import io.github.shicyaelaina.elainamod.init.ElainamodModTabs;
 
 public class ButterItem extends Item {
 	public ButterItem() {

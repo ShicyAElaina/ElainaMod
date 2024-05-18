@@ -53,8 +53,8 @@ import net.minecraft.network.syncher.EntityDataSerializers;
 import net.minecraft.network.syncher.EntityDataAccessor;
 import net.minecraft.network.protocol.Packet;
 
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModItems;
-import io.github.shicyaelaina.elainamod.Inception.ElainamodModEntities;
+import io.github.shicyaelaina.elainamod.init.ElainamodModItems;
+import io.github.shicyaelaina.elainamod.init.ElainamodModEntities;
 
 @Mod.EventBusSubscriber
 public class MuscleManEntity extends PathfinderMob implements IAnimatable {
